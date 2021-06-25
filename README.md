@@ -5,16 +5,16 @@ In this project was implemented a class named _Racional_(Rational) composed of t
 
 
 Mathematical operations:
-addition +
-subtraction -
-multiplication *
-divisions /
+addition +, 
+subtraction -, 
+multiplication *,
+divisions /.
 
 Relational operators:
-Greater than >
-Greater than or Equal to >=
-Less Than <
-Less Than or Equal to <=
-Equal to ==
-Not Equal to !=
+Greater than >, 
+Greater than or Equal to >=, 
+Less Than <, 
+Less Than or Equal to <=, 
+Equal to ==, 
+Not Equal to !=.
 
